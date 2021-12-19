@@ -1,5 +1,11 @@
 # Chuck-x
-Don't use for illigal purpose 
 
- 
-apt update && apt upgrade
+
+How to install
+•apt update
+•apt install git
+•git clone 
+https://github.com/rajkumardusad/Tool-X.git
+•cd Tool-X
+•chmod +x install
+•sh install if not work than use ./install
